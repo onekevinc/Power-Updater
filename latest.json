@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "build": 1,
-  "url": "https://raw.githubusercontent.com/onekevinc/Power-Updater/main/firmware/power-relay-d1mini-v1.0.0.bin",
-  "md5": "8f4bf7a3c5680b67d7d9646335c69d5d",
-  "sha256": "9742d3e457cdf78d2e2769530e2c8d1ed26c67c6e64d359eef85e50c2f772b64"
+  "version": "1.0.1",
+  "build": 2,
+  "url": "https://raw.githubusercontent.com/onekevinc/Power-Updater/main/firmware/power-relay-d1mini-v1.0.1.bin",
+  "md5": "1df48f780ee5a596a0626f328967b260",
+  "sha256": "647c3d5c04ff91904a88af617bcc6f25f4babffca3255e5373e1cc0777da2825"
 }
